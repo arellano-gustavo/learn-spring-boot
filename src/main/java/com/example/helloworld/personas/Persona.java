@@ -43,13 +43,15 @@ public class Persona {
     */
     
     public Persona() {
-        System.out.println("hola " + toString());
+        //System.out.println("hola " + toString());
     }
-    public Persona(int numero) {
-        System.out.println(numero);
-    }
-    public String toString() {
-        return "adios";
-    }
-    
+
+
+//    public Persona(int numero) {
+//        System.out.println(numero);
+//    }
+//    public String toString() {
+//        return "adios";
+//    }
+     
 }
